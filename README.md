@@ -13,7 +13,9 @@ For armeabi-v7a -
 </br>
 For x86_64 - 
 <a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/birthday-alert-x86_64.apk">link</a>
-
+## Attention this features comming soon...
+### <li> Backup & restore</li>
+### <li>wish maker</li>
 ## Preview of the Birthday Alert App
 </br>
 <li>List of today birthdays</li>

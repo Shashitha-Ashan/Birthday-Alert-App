@@ -1,8 +1,8 @@
 # Birthday Alert App
 
 ### Download links 
-if you don't know what's your architecture please download from 
-<a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/birthday-alert.apk">this link</a>
+if you don't know what's your architecture please download from -
+<a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/birthday-alert.apk">this link</a> [Recommended]
 </br>
 </br>
 For arm64-v8a - 

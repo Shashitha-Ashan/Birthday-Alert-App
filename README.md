@@ -16,4 +16,23 @@ For x86_64 -
 
 ## Preview of the Birthday Alert App
 </br>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<li>List of today birthdays</li>
+</br>
+<img src="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/screenshots/1.png" alt="Girl in a jacket" width="350" height="600">
+
+</br>
+<li>List of upcoming birthdays</li>
+</br>
+<img src="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/screenshots/4.png" alt="Girl in a jacket" width="350" height="600">
+</br>
+<li>List of birthdays</li>
+</br>
+<img src="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/screenshots/2.png" alt="Girl in a jacket" width="350" height="600">
+</br>
+<li>Add new birthdays</li>
+</br>
+<img src="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/screenshots/5.png" alt="Girl in a jacket" width="350" height="600">
+</br>
+<li>Settings Screen</li>
+</br>
+<img src="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/screenshots/3.png" alt="Girl in a jacket" width="350" height="600">

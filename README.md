@@ -6,7 +6,7 @@ if you don't know what's your architecture please download from -
 </br>
 </br>
 For arm64-v8a - 
-<a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/apks/birthday-alert-arm64-v8a.apk">link</a>
+<a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/apks/birthday-alert-arm64-v8a-release.apk">link</a>
 </br>
 For armeabi-v7a - 
 <a href="https://raw.githubusercontent.com/Shashitha-Ashan/Birthday-Alert-App/main/apks/birthday-alert-armeabi-v7a.apk">link</a>
